@@ -533,4 +533,4 @@ RATE_LIMIT_BURST=10
 
 # 📜 License
 
-This project is open-source and can be used as a production-ready Go backend template.
+Feel free to use this project as a starter template for production-grade Go applications.
